@@ -1,3 +1,2 @@
-Thanks for downloading this template!
-
-License: https://bootstrapmade.com/license/
+My Portfolio
+https://nik-reddy.github.io
